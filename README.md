@@ -1,12 +1,12 @@
-# Scripts réalisés en BLOC 2 - SISR
+# Scripts réalisés en BLOC 2 - SISR et dans le cadre de ma vie personnelle
 
 <div align="center">
-  <img src="https://louisdefoix.fr/storage/2025/10/logosanstexte.png" alt="Logo Lycée Louis de Foix"  height="120">
+  <img src="https://louisdefoix.fr/wp-content/uploads/2025/11/logoblanc.png" alt="Logo Lycée Louis de Foix"  height="120">
 </div>
 
 ## À propos
 
-Ce dépôt contient des scripts bash développés dans le cadre du **BTS SIO** (Brevet de Technicien Supérieur Services Informatiques aux Organisations) au Lycée Louis de Foix.
+Ce dépôt contient des scripts bash adapté pour MacOS ou Debian
 
 ## Description
 
@@ -18,4 +18,4 @@ Ces scripts nécessitent une connexion administrateur (sudo) pour fonctionner co
 
 ---
 
-*Travaux réalisés dans le cadre du BTS SIO au Lycée Louis de Foix*
+*Travaux réalisés dans le cadre du BTS SIO au Lycée Louis de Foix et dans un cadre personnelle*
